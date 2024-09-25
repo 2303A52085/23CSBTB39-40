@@ -7,9 +7,6 @@ AISSIGNMENT-1
 AISSIGNMENT-2
 [https://github.com/2303A52085/23CSBTB39-40/blob/main/AIML_2.ipynb]
 
-AISSIGNMENT-4
-https://github.com/2303A52085/23CSBTB39-40/blob/main/ass4(1%262).ipynb
-
 AISSIGNMENT-3
 https://github.com/2303A52085/23CSBTB39-40/blob/main/aiml3.ipynb
 
