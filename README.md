@@ -10,6 +10,9 @@ AISSIGNMENT-2
 AISSIGNMENT-3
 https://github.com/2303A52085/23CSBTB39-40/blob/main/aiml3.ipynb
 
+AISSIGNMENT-4
+https://github.com/2303A52085/23CSBTB39-40/blob/main/AIML_Lab_04.ipynb
+
 AISSIGNMENT-5
 https://github.com/2303A52085/23CSBTB39-40/blob/main/Ass_5.ipynb
 
