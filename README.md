@@ -15,3 +15,6 @@ https://github.com/2303A52085/23CSBTB39-40/blob/main/aiml3.ipynb
 
 AISSIGNMENT-5
 https://github.com/2303A52085/23CSBTB39-40/blob/main/Ass_5.ipynb
+
+AISSIGNMENT-6
+https://github.com/2303A52085/23CSBTB39-40/blob/main/Ass_6.ipynb
