@@ -21,3 +21,6 @@ https://github.com/2303A52085/23CSBTB39-40/blob/main/Ass_6.ipynb
 
 AISSIGNMENT-7
 https://github.com/2303A52085/23CSBTB39-40/blob/main/Ass7.ipynb
+
+AISSIGNMENT-8
+https://github.com/2303A52085/23CSBTB39-40/blob/main/Ass8.ipynb
