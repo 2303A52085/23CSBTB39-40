@@ -27,3 +27,6 @@ https://github.com/2303A52085/23CSBTB39-40/blob/main/Ass8.ipynb
 
 AISSIGNMENT-9
 https://github.com/2303A52085/23CSBTB39-40/blob/main/Ass9.ipynb
+
+AISSIGNMENT-10
+https://github.com/2303A52085/23CSBTB39-40/blob/main/LabExam.ipynb
